@@ -3,7 +3,8 @@
 A modern, responsive, and highly actionable Customer Success internal tool designed to flag at-risk merchants and recommend concrete next steps. 
 
 Built as a prototype for an AI Proficiency Assessment, this dashboard leverages a transparent, weighted risk-scoring algorithm (without opaque machine learning models) to compute a churn risk score out of 100 and escalate appropriately.
-
+Live website: https://swym-oa.vercel.app/
+Chatgpt chat link: https://chatgpt.com/share/6a58f886-e048-83e8-af9c-9275dd589717
 ## ✨ Key Features
 
 - **Transparent Risk Scoring**: Automatically calculates a Risk Score (0-100) based on multiple factors (Billing, Inactivity, Order/Wishlist declines, NPS, and Support Tickets).
